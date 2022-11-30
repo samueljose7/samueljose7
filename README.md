@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando front-end
+- 🌱 Analise e desenvolvimento de Sistemas 3/5
 
 <div align="center">
   <a href="https://github.com/samueljose7">
